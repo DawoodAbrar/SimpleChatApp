@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleChatApp</string>
+    <string name="hi">Hi</string>
+    <string name="receive">Receive</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send">Send</string>
+    <string name="todo">todo</string>
+    <string name="abiding_tech">Abiding Tech</string>
+</resources>
